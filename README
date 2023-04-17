@@ -1,0 +1,20 @@
+# Number Range Summarizer
+
+
+Given a produces a comma delimited list of numbers, this program groups the numbers into a range when they are sequential.
+See example below: 
+
+Sample Input: "1,3,6,7,8,12,13,14,15,21,22,23,24,31
+Result: "1, 3, 6-8, 12-15, 21-24, 31"
+
+## Assumptions
+
+Only numbers and not strings are accepted as input
+
+## Running Program
+
+You need to have intellij installed to run code
+
+- Open the Main.java file and edit the input as you wish, then press run on the IDE
+- To run tests open NumberRangeSummarizerImplementationTest.java file and press run on the IDE
+
